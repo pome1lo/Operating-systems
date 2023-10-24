@@ -1,0 +1,18 @@
+﻿  os07_01.cpp
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(21,28): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(22,28): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(66,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(68,3): error C2065: lock: необъявленный идентификатор
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(68,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "bts"
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(68,8): error C2065: bts: необъявленный идентификатор
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(68,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check"
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(69,3): error C2065: jc: необъявленный идентификатор
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(69,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "CriticalSection"
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(69,6): error C2065: CriticalSection: необъявленный идентификатор
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(70,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(75,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(75,7): error C2065: lock: необъявленный идентификатор
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(75,12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "btr"
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(75,12): error C2065: btr: необъявленный идентификатор
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(75,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "check"
+D:\FILES\University\3 course\1 term\OS\lw6\os07_01\os07_01.cpp(76,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
