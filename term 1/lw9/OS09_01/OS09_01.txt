@@ -1,0 +1,6 @@
+1.123456(0)
+OLEG KOZAK
+Ryan Gosling 
+TESTSTRING(4)
+4.123456(-1)
+4.123456(-1)
